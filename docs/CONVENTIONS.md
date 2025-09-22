@@ -7,7 +7,7 @@
   - 예) `feat(til): add 2025-09-21 map vs foreach`
 
 ## 폴더
-
+```markdown
 root/
 ├── .gitignore
 ├── .prettierrc
@@ -30,6 +30,7 @@ root/
 │ └── projects/ # 프로젝트 회고/문서
 └── docs/
 └── CONVENTIONS.md # 프로젝트 컨벤션 문서
+```
 
 ## 네이밍
 
