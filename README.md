@@ -1,4 +1,5 @@
 # juhyunaria.github.io
+
 포트폴리오 & TIL 사이트 (Next.js + Tailwind).  
 그래픽 디자이너 & 마케터 백그라운드를 바탕으로 **디자인 완성도 + 개발 학습 기록**을 함께 보여줍니다.
 
@@ -40,19 +41,17 @@ root/
 예시
 ```markdown
 ---
-title: 'map vs forEach'
-date: '2025-09-21'
-tags: ['til', 'javascript']
-summary: 'map은 배열을 리턴, forEach는 undefined'
+title: "map vs forEach"
+date: "2025-09-21"
+tags: ["til","javascript"]
+summary: "map은 배열을 리턴, forEach는 undefined"
 draft: false
-cover: '📝'
+cover: "📝"
 ---
-
 핵심 메모 ...
 ```
-
 ## Conventions
-- 브랜치: main, feat/_, fix/_, refactor/_, chore/_
+- 브랜치: main, feat/*, fix/*, refactor/*, chore/*
 - 커밋: Conventional Commits
 - 자세한 규칙: docs/CONVENTIONS.md
 
@@ -60,7 +59,7 @@ cover: '📝'
 ```bash
 npm install
 npm run dev
-# http://localhost:3000
+# http://localhost:3000 
 ```
 
 ## Deploy
