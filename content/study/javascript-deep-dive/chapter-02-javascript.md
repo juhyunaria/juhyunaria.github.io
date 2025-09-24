@@ -9,7 +9,7 @@ draft: false
 # 모던 자바스크립트 Deep Dive – Chapter 02 자바스크립트
 
 ## 날짜
-2025-09-22 (월)
+2025-09-22 (Mon)
 
 ## 주제
 자바스크립트의 발전, 엔진, Node.js, SPA, ECMAScript와 Web API, ES6 지원 현황

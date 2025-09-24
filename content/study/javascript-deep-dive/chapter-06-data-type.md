@@ -9,7 +9,7 @@ draft: false
 # 모던 자바스크립트 Deep Dive – Chapter 06 데이터 타입
 
 ## 날짜
-2025-09-22 (월)
+2025-09-22 (Mon)
 
 ## 주제
 문자열, 템플릿 리터럴, undefined, 원시 타입과 심벌, 객체, typeof, 동적 타이핑
